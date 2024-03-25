@@ -1,1 +1,2 @@
 # documentation
+## Lethal Company Modding
