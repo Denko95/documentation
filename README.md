@@ -8,7 +8,7 @@ When we play Lethal Company, we typically use mods to allow more people to play 
 2. Open R2Modman
 3. In the search bar, type lethal company
 4. Select Lethal Company
-   a. If you only use this app for lethal company, you can select as default as well.
+      a. If you only use this app for lethal company, you can select as default as well.
 6. In the profile selection page, click **Import/Update**
 7. Click **Import File**
 8. Click **From Code**
